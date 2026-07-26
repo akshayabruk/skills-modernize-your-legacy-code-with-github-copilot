@@ -1,0 +1,14 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js port of the COBOL account management application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^11.7.6"
+  }
+}
